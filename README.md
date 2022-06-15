@@ -8,4 +8,4 @@ This is a final project for STA142B- Unsupervised Statistical Learning Methods a
 How to navigate this project:
 * `data`: contains 90 mp3 audio files used in our analysis.
 * `notebooks`: contains feature extraction, feature generation, dimension reduction, clustering implementation Jupyter notebooks.
-* `Final_Report.pdf`: contains our final report.
+* `report`: contains a pdf of our final report.
